@@ -1,2 +1,0 @@
-recursive-include markitup/templates *
-recursive-include markitup/javascript *
